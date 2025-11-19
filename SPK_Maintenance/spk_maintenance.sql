@@ -1,0 +1,1 @@
+DELETE FROM equipment_class WHERE id_equipment_class = 6;
